@@ -1,0 +1,19 @@
+{
+  "name": "any2json",
+  "version": "1.0.0",
+  "description": "Converts anything to json object",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "json",
+    "string",
+    "object"
+  ],
+  "author": "ksankaran",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^2.7.1"
+  }
+}
