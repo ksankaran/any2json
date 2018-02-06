@@ -15,5 +15,9 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^2.7.1"
+  },
+  "repository": {
+    "email": "kv.coder@gmail.com",
+    "url": "https://github.com/ksankaran/any2json"
   }
 }
